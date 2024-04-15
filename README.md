@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub space! I'm a junior Software Engineer based in Paris, France, passionate about creating cool stuff with code.
+Welcome to my GitHub space! I'm a junior Software Engineer, passionate about creating cool stuff with code.
 
 ## About Me
 
