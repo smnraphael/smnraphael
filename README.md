@@ -19,6 +19,10 @@ Welcome to my GitHub space! I'm a junior Software Engineer, passionate about cre
 |Version control|<img src="https://github.com/smnraphael/smnraphael/assets/130636559/386dcded-51b2-401d-aa1b-92e026482682" height="30" /><img src="https://github.com/smnraphael/smnraphael/assets/130636559/d9a9fe2c-4efe-405c-afd1-9029a2cd6c6f" height="30" />|
 |Softwares|<img src="https://github.com/smnraphael/smnraphael/assets/130636559/dc590de3-a0a9-474c-ac76-49de20f51190" height="30" />|
 
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnraphael&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **smnraphael/smnraphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
