@@ -2,12 +2,6 @@
 
 Welcome to my GitHub space! I'm a junior Software Engineer, passionate about creating cool stuff with code.
 
-## About Me
-
-- **Location:** Paris, France
-- **Email:** simonraphael@hotmail.fr
-- **LinkedIn:** [linkedin.com/in/simonraphael](https://linkedin.com/in/simonraphael)
-
 ## Stack
 
 |I code|with|
