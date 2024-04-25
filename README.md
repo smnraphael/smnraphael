@@ -16,6 +16,11 @@ Version Control: ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=
 
 Software: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+## Contact
+
+[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonraphael)
+[![Website](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://smnraphael-portfolio.netlify.app)
+
 ## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnraphael&hide=stars&rank_icon)](https://github.com/anuraghazra/github-readme-stats)
