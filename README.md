@@ -10,6 +10,3 @@ Clean code, solid testing, and not reinventing the wheel unless it's actually br
 ## Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonraphael)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://smnraphael-portfolio.netlify.app)
-
-## Stats
-[![Raphaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnraphael&hide=stars&rank_icon)](https://github.com/anuraghazra/github-readme-stats)
